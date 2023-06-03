@@ -4,11 +4,11 @@
 version: 0.3.5 # NO TOCAR
 
 # HODL username
-username: sebastianlujan # < TU_USUARIO@hodl.ar
+username: sebas # < TU_USUARIO@hodl.ar
 
 # NOSTR Settings
 nostr: # Sin el # adelante
-   npub: "npub1rdhvn57kh2xk0n23d3kuu20r00scwvn02w8tvnns40ajthgrmqpqnkree5" # Entre comillas dobles
+#   npub: "npub1rdhvn57kh2xk0n23d3kuu20r00scwvn02w8tvnns40ajthgrmqpqnkree5" # Entre comillas dobles
 
 # Configuración Global
 html:
