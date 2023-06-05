@@ -13,7 +13,7 @@ username: sebas # < TU_USUARIO@hodl.ar
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title:  🥑| Sebashack
+  title:  "🥑| Sebashack"
 
 # Colores de plantilla
 theme:
