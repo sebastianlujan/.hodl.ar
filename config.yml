@@ -13,12 +13,12 @@ username: sebas # < TU_USUARIO@hodl.ar
 # Configuración Global
 html:
 # title: Este valor no funciona porque esta comentado
-  title: Links | Mi Nombre # Este es el Título que aparece en la pestaña de navegador
+  title:  🥑| Sebashack
 
 # Colores de plantilla
 theme:
   background_color: "#f9fafb"
-  cover_color: "#ff7070"
+  cover_color: "#ff7070
 
 # Configuración Central
 main:
